@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Kevin Grieco
-name_pronunciation: Wu En da
+# name_pronunciation: Wu En da
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,8 +10,8 @@ superuser: true
 role: 'UCLA'
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#  icon: ☕️
 
 # Organizations/Affiliations
 #organizations:
@@ -19,7 +19,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: ''
+bio: 'Here is a short bio about me'
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
