@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳恩達
+title: Kevin Grieco
 name_pronunciation: Wu En da
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: ''
+role: 'UCLA'
 
 # Status emoji
 status:
